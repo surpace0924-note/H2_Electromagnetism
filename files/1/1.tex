@@ -1,0 +1,280 @@
+\section{電荷と電界}
+\subsection{電荷}
+・帯電　：電気を帯びる，もつ\\
+・帯電帯：電気を帯た物体\\
+・電荷　：電気の実態\\
+・電荷量：電荷の大きさ$[C]=[A \cdot s]$（クーロン）\\
+・電荷は正，負の二種．\\
+　→同種は反発し合い，異種は引き合う．\\
+・帯電していない→正負の電荷を等量持っている．\\
+　→電気的中性\\
+・陽子は電子の1800倍の質量\\
+
+\subsection{物質の電気的性質}
+・導体：電荷をよく通す\\
+・不導体：電荷をよく保持する\\
+・半導体：上二つの中間的性質をもつ\\
+
+\subsection{静電誘導}
+\pic{./files/imgs/dummy.png}
+
+\subsection{クーロンの法則}
+\pic{./files/imgs/dummy.png}
+点電荷：十分に小さく，点とみなせるような帯電帯\\
+
+\begin{itembox}[l]{クーロンの法則}
+  \begin{eqnarray}
+    F &=&\frac {1}{4\pi \epsilon _{0}}\cdot \frac {\left| Q_{1}\right| \cdot \left| Q_{2}\right| }{r^{2}}\, [\textrm{N}] \\
+    &\fallingdotseq& 9\times 10^{9} \cdot \frac {\left| Q_{1}\right| \cdot \left| Q_{2}\right| }{r^{2}}\, [\textrm{N}]\\
+    \epsilon_0 &=& \mbox{真空の誘電率}\, [\textrm{F/m}]
+  \end{eqnarray}
+\end{itembox}
+
+\subsection{電界}
+はじめに$Q_0$の電荷を置く\\
+　→周辺の空間が電気的に歪む\\
+
+はじめに$Q$の電荷を置くと力が働く\\
+　→$Q_0$によって歪んだ空間に$Q$を置くと力が働く．\\
+
+電荷を置くことで生じる空間の電気的な歪み．
+\begin{eqnarray}
+  F &=&\frac {1}{4\pi \epsilon _{0}}\cdot \frac {\left| Q_{0}\right| \cdot \left| Q\right| }{r^{2}}\, [\textrm{N}] \\
+  &=&\frac {\left| Q_{0}\right|}{4\pi \epsilon _{0}r^{2}}\cdot \left| Q\right|\, [\textrm{N}]
+\end{eqnarray}
+
+ここで$F=E\cdot|Q|$と置くと
+\begin{eqnarray}
+  E &=&\frac {\left| Q_{0}\right|}{4\pi \epsilon _{0}r^{2}}\, [\textrm{N/C}]
+\end{eqnarray}
+
+電界はベクトル量であるから
+
+\begin{itembox}[l]{電界（電場）}
+  \begin{flalign}
+    \overrightarrow {F}=Q\cdot \overrightarrow {E}\, [\textrm{N/C}]
+  \end{flalign}
+  この関係はどのような電界でも使える
+\end{itembox}
+
+一般に，電界が存在するとき，$+1C$の点電荷を置いたなら，\\
+電界の大きさ：力の大きさ\\
+電界の向き　：力の向き\\
+
+\subsection{電気力線}
+\pic{./files/imgs/dummy.png}
+その曲線のある点における接線の向きが電界の向きと一致するように書いた曲線．\\
+電界の大きさは電気力線の密度で表す．
+
+\subsection{電気力線の密度と電界}
+\begin{flalign}
+  \mbox{電気力線の密度} = \frac{\mbox{その板を通る電気力線の数}\, \unit{\mbox{本}}}{\mbox{仮想的な板の面積}\, \unit{m^2}}
+\end{flalign}
+
+\begin{flalign}
+  \mbox{電界の大きさ}\unit{N/C} = \mbox{電気力線の密度} \unit{\mbox{本}/m^2}
+\end{flalign}
+\pic{./files/imgs/dummy.png}
+\begin{flalign}
+&\frac {Q}{4\pi \varepsilon _{0}r^{2}}=\frac {x}{4\pi r^{2}}\\
+&x=\frac {Q}{\varepsilon _{0}}
+\end{flalign}
+
+\subsection{電束と電束密度}
+{\bf 電束}\\
+　形状は電気力線と同じ．\\
+　本数は電気力線の$\epsilon_0$倍．\\
+
+{\bf $+Q\unit{c}$の点電荷から出る本数}\\
+　電気力線：$Q/\epsilon_0\unit{\mbox{本}}$\\
+　電束：$Q\unit{\mbox{本}}$\\
+
+\begin{itembox}[l]{電束密度}
+  \begin{flalign}
+    \overrightarrow {D}=\varepsilon _{0}\overrightarrow {E}\unit{C/m^2}
+  \end{flalign}
+\end{itembox}
+
+
+\subsection{ガウスの法則}
+\begin{itembox}[l]{ガウスの法則}
+  ある閉曲面を通って外に出る電気力線の総数はその閉曲面に含まれる電荷の総量の$Q\unit{C}$を$\epsilon_0$で割ったものに等しい．\\
+  　↓\\
+  ある閉曲面上で電界を面積分↓ものはその閉曲面上に含まれる電荷の総量$Q\unit{C}$を$\epsilon_0$で割ったものに等しい．
+\end{itembox}
+
+{\bf 面積分}
+\pic{./files/imgs/dummy.png}
+{\bf 電気力線の本数}
+\begin{flalign}
+E_{1}\times \Delta \varepsilon _{1}+E_{2}\times \Delta S_{2}+\ldots \unit{\mbox{本}/m^2}\times\unit{m^2}
+\end{flalign}
+
+{\bf 電界の面積分}
+\begin{flalign}
+&E_{1}\times \Delta \varepsilon _{1}+E_{2}\times \Delta S_{2}+\ldots \unit{N/C}\times\unit{m^2}\\
+&=\oint _{S_{0}}EdS
+\end{flalign}
+
+\subsection{ガウスの法則を用いた計算}
+\subsubsection{点電荷}
+\pic{./files/imgs/dummy.png}
+点電荷を中心とする半径$r\unit{m}$の球面上の電界の大きさを$E$とする．\\
+ガウスの法則により
+\begin{flalign}
+&\oint_{S_{0}}EdS=\dfrac {Q}{\varepsilon _{0}}\\
+&E\times\Delta S_{1}+E\times\Delta S_{2}+\ldots E\times\Delta S_{n}=\dfrac {Q}{\varepsilon _{0}}\\
+&E\left( \Delta S_{1}+\Delta S_{2}+\ldots +\Delta S_{n}\right) =\dfrac {Q}{\varepsilon _{0}}\\
+&E\cdot 4\pi r^{2}=\dfrac {Q}{\varepsilon _{0}}\\
+&\therefore E=\dfrac {Q}{4\pi \varepsilon _{0}r^{2}}\left[ N/C\right]
+\end{flalign}
+
+\subsubsection{無限長の線電荷}
+\pic{./files/imgs/dummy.png}
+線密度$\lambda \left[ C/m\right]$の無限長の宣伝かが作る電界を求める．\\
+宣伝かと中心軸が一致する半径が$r\left[ m\right]$，長さ$l\left[ m\right]$の円筒の側面上の電界をEとする．\\
+
+ガウスの法則より
+\begin{flalign}
+&E\times 2\pi rl+0\times \pi r^{2}+0\times \pi r^{2}=\dfrac {\lambda l}{\varepsilon _{0}}\\
+&E_{1}\Delta S_{1}+E_{2}\Delta S_{2}+E_{3}\Delta S_{3}+E_{4}\Delta S_{4}+E_{5}\Delta S_{5} = \dfrac {\lambda l}{\varepsilon _{0}}\\
+&E\left( \Delta S_{1}+\Delta S_{2}+\Delta S_{3}\right) +0x\Delta S_{4}+0x\Delta S_{5}= \dfrac {\lambda l}{\varepsilon _{0}}\\
+&E\cdot l\cdot 2\pi r=\dfrac {\lambda l}{\varepsilon _{0}}\\
+&E\cdot 2\pi rl=\dfrac {\lambda l}{\varepsilon _{0}}\\
+&\therefore E=\dfrac {\lambda }{2\pi \varepsilon _{0}r}\left[ N/C\right]
+\end{flalign}
+
+\subsubsection{一様に帯電した無限長の円柱}
+\pic{./files/imgs/dummy.png}
+\pic{./files/imgs/dummy.png}
+\pic{./files/imgs/dummy.png}
+単位長さあたり$\lambda \left[ C/m\right]$の電荷が一様に分布した円柱の内部と外部の電界の大きさを求める．\\
+円柱と同じ中心軸をもつ半径が$r\left[ m\right]$，長さ$l\left[ m\right]$の円筒の側面上の電界をEとする．\\
+
+{\bf ・外部$( r > a)$}\\
+ガウスの法則より
+\begin{flalign}
+&\oint _{S_{0}}EdS=\dfrac {\lambda l}{\varepsilon _{0}}\\
+&E\times 2\pi rl+0\times \Delta S_{n}=\dfrac {\lambda l}{\varepsilon _{0}}\\
+&E=\dfrac {\lambda }{2\pi r\varepsilon _{0}}
+\end{flalign}
+
+{\bf ・内部$(0\leqq r\leqq a)$}\\
+\pic{./files/imgs/dummy.png}
+\begin{table}[htb]
+\begin{center}
+  \begin{tabular}{|l|c|c|} \hline
+    & a & r \\ \hline
+    電荷 & $\lambda l$ & $\lambda l\dfrac {r^{2}}{a^{2}}$\\
+    体積 & $\pi a^{2}l$ & $\pi r^{2}l$\\
+    電荷/体積 & $\dfrac {\lambda }{\pi a^{2}}$ & $\dfrac {\lambda }{\pi a^{2}}$\\ \hline
+  \end{tabular}
+\end{center}
+\end{table}
+\begin{flalign}
+\dfrac {\lambda l}{\pi a^{2}l}\times \pi r^{2}l=\lambda l\dfrac {r^2 }{a^{2}}\left[ C\right]
+\end{flalign}
+ガウスの法則より
+\begin{flalign}
+&\oint _{s_{0}}EdS = \dfrac {\lambda l+\dfrac {r^{2}}{a^{2}}}{\varepsilon _{0}}\\
+&E\cdot 2\pi rl+0\cdot \pi r^{2}+0\cdot \pi r^{2} = \dfrac {\lambda lr^{2}}{\varepsilon _{0}a^{2}}\\
+&E=\dfrac {\lambda lr^{2}}{2\pi rl\cdot \varepsilon _{0}a^{2}}\\
+&E=\dfrac {\lambda }{2\pi \varepsilon _{0}a^{2}}r
+\end{flalign}
+\pic{./files/imgs/dummy.png}
+
+\subsubsection{一様に帯電した球}
+\pic{./files/imgs/dummy.png}
+半径$a[m]$の球に$Q[C]$の電荷が一様に分布している球と同じ中心をもつ半径$r[m]$の球面上の電界の大きさを$E$とする．\\
+{\bf ・外部$(a < r)$}\\
+ガウスの法則より
+\begin{flalign}
+&\oint_{S_{0}}EdS=\dfrac {Q}{\varepsilon _{0}}\\
+&E\cdot 4\pi r^{2}=\dfrac {Q}{\varepsilon _{0}}\\
+&\therefore E=\dfrac {Q}{4\pi \varepsilon _{0}r^{2}}\left[ N/C\right]
+\end{flalign}
+
+{\bf ・内部$(a < r)$}\\
+\pic{./files/imgs/dummy.png}
+\begin{table}[htb]
+  \begin{center}
+    \begin{tabular}{|l|c|c|} \hline
+      & 体積 & 電荷 \\ \hline
+      全体 & $\dfrac {4}{3}\pi a^{3}$ & $Q$\\
+      求めるところ & $\dfrac {4}{3}\pi r^{3}$ & $Q\dfrac {r^{3}}{a^{3}}$\\ \hline
+    \end{tabular}
+  \end{center}
+  \end{table}
+\begin{eqnarray}
+  \because \dfrac {Q}{\dfrac {4}{3}\pi a^{3}}\cdot \dfrac {4}{3}\pi r^{3}=Q\cdot \dfrac {r^{3}}{a^{3}}
+\end{eqnarray}
+
+ガウスの法則より
+\begin{flalign}
+&\oint _{S_{0}}EdS=\dfrac {Q\dfrac {r^{3}}{a^{3}}}{\varepsilon _{0}}\\
+&E\cdot 4\pi r^{2}=\dfrac {Qr^{3}}{\varepsilon _{0}a^{3}}\\
+&E=\dfrac {Q}{4\pi \varepsilon _{0}a^{3}}r
+\end{flalign}
+\pic{./files/imgs/dummy.png}
+
+\subsubsection{表面が一様に帯電した導体球}
+\pic{./files/imgs/dummy.png}
+半径$a[m]$の導体球の表面上に$Q[C]$の電荷が一様に分布している球\\
+導体球と同じ中心をもつ半径$r[m]$の球面上の電界の大きさを$E$とする．\\
+
+{\bf ・外部$( r > a)$}\\
+ガウスの法則より
+\begin{flalign}
+&\oint_{S_{0}}EdS=\dfrac {Q}{\varepsilon _{0}}\\
+&E\cdot 4\pi r^{2}=\dfrac {Q}{\varepsilon _{0}}\\
+&\therefore E=\dfrac {Q}{4\pi \varepsilon _{0}r^{2}}\left[ N/C\right]
+\end{flalign}
+
+{\bf ・内部$(0\leqq r <a)$}\\
+\begin{flalign}
+&\oint _{s_{0}}EdS=\dfrac {0}{\varepsilon _{0}}\\
+&E \times 4\pi r^{2}=\dfrac {0}{\varepsilon _{0}}=0\\
+&\therefore E=O\left[ N/C\right]
+\end{flalign}
+\pic{./files/imgs/dummy.png}
+
+\subsubsection{一様に帯電した誘電体平面}
+\pic{./files/imgs/dummy.png}
+単位面積当たりの電荷量を$\sigma \left[ C/m^2\right]$とする．
+ガウスの法則より
+\begin{flalign}
+&\oint _{s_{0}}EdS=\dfrac {Q_{1}}{\varepsilon _{0}}\\
+&E\times S_{1}\times 2+0\times S_{2}=\dfrac {\sigma S_{1}}{\varepsilon _{0}}\\
+&2ES_{1}=\dfrac {\sigma S_{1}}{\varepsilon _{0}}\\
+&E=\dfrac {\sigma }{2\varepsilon _{0}}\left[ N/C\right]
+\end{flalign}
+
+\subsubsection{一様に帯電した無限大の導体平面}
+\pic{./files/imgs/dummy.png}
+単位面積当たりの電荷量を$\sigma \left[ C/m^2\right]$とする．
+\begin{flalign}
+&\oint _{s_{0}}EdS=\dfrac {\sigma S_{1}}{\varepsilon _{0}}\\
+&E\times S_{1}+0\times S_{2}+0\times S_{2}=\dfrac {\sigma S_{1}}{\varepsilon _{0}}\\
+&\therefore E=\dfrac {\sigma }{\varepsilon _{0}}\left[ N/C\right]
+\end{flalign}
+
+\subsubsection{一様に帯電した導体表面上の電界}
+\pic{./files/imgs/dummy.png}
+導体表面における電界は表面に対して垂直である．\\
+なぜなら，水平方向の成分があると表面に永久電流が流れてしまうから．\\
+
+\begin{flalign}
+&ExS_{1}+0\times S_{2}+0\times S_{1}=\dfrac {\sigma S_{1}}{\varepsilon _{0}}\\
+&\therefore E=\dfrac {\sigma }{\varepsilon _{0}}
+\end{flalign}
+
+{\bf 応用例}\\
+半径$a[m]$，電荷量$Q[C]$を持った球の表面上の電界の大きさ\\
+\pic{./files/imgs/dummy.png}
+
+\begin{eqnarray}
+E&=&\dfrac {\sigma }{\varepsilon _{0}}\\
+&=&\dfrac {\dfrac {Q}{4\pi \varepsilon a^{2}}}{\varepsilon _{0}}\\
+&=&\dfrac {Q}{4\pi \varepsilon _{0}a^{2}}
+\end{eqnarray}
+\pic{./files/imgs/dummy.png}
