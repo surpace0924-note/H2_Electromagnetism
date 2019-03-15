@@ -1,0 +1,161 @@
+\section{電位}
+\subsection{電界中で電荷を移動するのに要する仕事}
+\pic{./files/2/imgs/dummy.png}
+力$F[N]$が物体にした仕事$W[J]$は
+\begin{flalign}
+&W = Fl[J]
+\end{flalign}\\
+ここで移動距離を細かく分けてみる
+\begin{eqnarray}
+W &=&F(\Delta l+\Delta l+\Delta l+\ldots+\Delta l)\\
+&=&F\Delta l+F\Delta l+F\Delta l+\ldots+F\Delta l
+\end{eqnarray}
+
+\subsection{電荷を運ぶのに要する仕事}
+\subsubsection{ケース1}
+\pic{./files/2/imgs/dummy.png}
+$Q_1$の作る電界が$Q_2$に対して仕事をした．\\
+　→仕事の符号は「負」となる.\\
+
+\subsubsection{ケース2}
+\pic{./files/2/imgs/dummy.png}
+外部から$Q_2$に対して仕事をした．\\
+　→仕事の符号は「正」となる.\\
+
+\subsection{仕事の計算}
+\subsubsection{ケース1}
+\pic{./files/2/imgs/dummy.png}
+\begin{flalign}
+&F=\dfrac {1}{4\pi \varepsilon _{0}}\times \dfrac {Q_{1}Q_{2}}{r^{2}}
+\end{flalign}\\
+$Q_2$の電荷が$r = r_a$から$r=r_b$まで動くとき，$Q_1$による電界が$Q_2$にした仕事$W$の近似値は
+\begin{eqnarray}
+W&=&-F_{1}\times \Delta r_{1}-F_{2}\times \Delta r_{2}\ldots \\
+&=&\sum ^{3}_{k=1}F_{k}\Delta r_{k}
+\end{eqnarray}\\
+分割を限りなく細かくすると，積分を用いて$W$を正確に求めることができる．
+\begin{flalign}
+&W=-\int ^{r_{b}}_{r_{a}}Fdr\left[ J\right]
+\end{flalign}
+
+\subsubsection{ケース2}
+\pic{./files/2/imgs/dummy.png}
+クーロン力に逆らって，外部から$Q_2$にした仕事$W$は
+\begin{eqnarray}
+W&=&\int ^{r_{c}}_{r_{b}}Fdr\left[ J\right] \\
+&=&-\int ^{r_{b}}_{r_{c}}Fdr\left[ J\right]
+\end{eqnarray}\\
+
+\subsubsection{まとめ}
+2つのケースのいずれの場合でも，以下のように表せる．
+\begin{flalign}
+&W=-\int ^{\mbox{終点}}_{\mbox{始点}}(\mbox{クーロン力})dr\left[ J\right]\\
+&\begin{cases}W <0:\mbox{電界がした力}\\
+W >0:\mbox{外部がした力}\end{cases}
+\end{flalign}
+
+\subsection{電位}
+\subsubsection{無限遠点から電荷を運ぶのに要する仕事}
+\pic{./files/2/imgs/dummy.png}
+\begin{eqnarray}
+W&=&-\int ^{r_{a}}_{\infty }\dfrac {Q_{1}Q_{2}}{4\pi \varepsilon _{0}r^{2}}dr\\
+&=&\dfrac {Q_{1}Q_{2}}{4\pi \varepsilon _{0}}\left[ r^{-1}\right] ^{r_{a}}_{\infty }\\
+&=&\dfrac {Q_{1}Q_{2}}{4\pi \varepsilon _{0}}\left( \dfrac {1}{r_{a}}-0\right) \\
+&=&\dfrac {Q_{1}Q_{2}}{4\pi \varepsilon _{0}r_{a}}\left[ J\right]
+\end{eqnarray}\\
+
+\subsubsection{無限遠点から$+1C$の電荷を運ぶのに要する仕事}
+前問において，$Q_2 = 1[C]$とすればよい．
+\begin{eqnarray}
+\therefore W&=&\dfrac {Q_{1}}{4\pi \varepsilon _{0}r_{a}}\left[ J\right] \\
+&=&-\int ^{r_{a}}_{\infty }\dfrac {Q_{1}Q_{2}}{4\pi \varepsilon _{0}r^{2}}dr\\
+&=&-\int ^{r_{a}}_{\infty }EQ_{2}dr
+\end{eqnarray}\\
+
+ここで$Q_2 = 1[C]$だから
+\begin{flalign}
+&W=-\int ^{r_{a}}_{\infty }Edr
+\end{flalign}
+
+\subsubsection{電位}
+\begin{itembox}[l]{電位}
+無限遠点から$+1C$の電荷を運ぶのに要する仕事を$r=r_a$における電位と定義する．\\
+単位は$[V]$を使用する．
+\begin{flalign}
+&V_a=-\int ^{r_{a}}_{\infty }Edr\left[ V\right]
+\end{flalign}
+\end{itembox}\\
+
+\subsubsection{電位の基準}
+1. 電気磁気学：無限遠点\\
+2. 電力　　　：大地\\
+3. 回路　　　：任意
+
+\subsubsection{点電荷による電界}
+\pic{./files/2/imgs/dummy.png}
+点$P$の電位は
+\begin{flalign}
+&V_{a}=\dfrac {Q}{4\pi \varepsilon _{0}r_{a}}\left[ V\right]
+\end{flalign}
+
+\subsection{電位差}
+\subsubsection{電位差}
+\pic{./files/2/imgs/dummy.png}
+$V_a-V_b$を点$B$に対する点$A$の電位差という．\\
+　→点$B$から点$A$に$+1C$を運ぶのに要する仕事．\\
+電位差を電圧ともいう．
+
+\subsubsection{計算方法}
+点$B$に対する点$A$の電位差$V_{AB}$は\\
+\begin{flalign}
+&V_{AB}=-\int ^{r_{a}}_{r_b}(\mbox{電界})dr
+\end{flalign}\\
+
+原点に$Q[C]$がある場合は\\
+\begin{eqnarray}
+V_{AB}&=&-\int ^{r_{a}}_{r_{b}}\dfrac {Q}{4\pi \varepsilon _{0}}dr\\
+&=&\dfrac {Q}{4\pi \varepsilon _{0}}\left[ r^{-1}\right] ^{r_{a}}_{r_{b}}\\
+&=&\dfrac {Q}{4\pi \varepsilon _{0}}\left( \dfrac {1}{r_{a}}-\dfrac {1}{r_{b}}\right) \left[ V\right]
+\end{eqnarray}
+
+\subsubsection{等電位線と電気力線の関係}
+\pic{./files/2/imgs/dummy.png}
+・電界中で，電位$V$の等しい点を連ねて作った仮想的な線を等電位線という．\\
+・二次元の時は等電位線，三次元の時は，等電位面．\\
+・等電位線と電気力線は垂直に交わる．\\
+・電位の山を下る時，最も急な傾斜が電界の向き．\\
+・等電位線に沿って電荷を動かした時，仕事はしない．\\
+・動かす方向に力はない．
+
+\subsection{電位の傾き}
+\subsubsection{勾配}
+\pic{./files/2/imgs/dummy.png}
+\begin{flalign}
+&\mbox{平均変化率}=\dfrac {\Delta y}{\Delta x}\\
+&\mbox{勾配}=\dfrac {dy}{dx}\left[ (\mbox{yの単位})/m\right]
+\end{flalign}
+
+
+\subsubsection{電位の傾き}
+\pic{./files/2/imgs/dummy.png}
+$Q$による電界$E$が行った仕事$\Delta W$は
+\begin{eqnarray}
+\Delta W&=&-(\mbox{力})\times (\mbox{距離})\\
+&=&-qE\times \Delta x
+\end{eqnarray}\\
+
+この時，$E$が一定とみなせるほど$\Delta x$は小さい．\\
+$q=1C$なら，$\Delta W$は電位差$\Delta V$と置き換えられる．
+\begin{flalign}
+&\Delta V=-E \times \Delta x\\
+&\dfrac {\Delta V}{\Delta x}=-E\\
+&E=-\dfrac {\Delta V}{\Delta x}\left[ V/m\right]
+\end{flalign}
+
+$\Delta x$が限りなく小さければ
+\begin{flalign}
+&E=-\dfrac {dV}{dx}\left[ V/m\right]\left[ N/C\right]
+\end{flalign}\\
+
+すなわち，電界は電位の勾配にマイナスをつけたもの．\\
+　→$[N/C]=[V/m]$
