@@ -37,11 +37,11 @@
 \makeatother
 
 % 画像の貼り付けを簡単にする
-\newcommand{\pic}[1]
+\newcommand{\pic}[2]
 {
   \begin{figure}[H]
     \begin{center}
-      \includegraphics[height=\textheight/7]{#1}
+      \includegraphics[scale=#2]{#1}
     \end{center}
   \end{figure}
 }
