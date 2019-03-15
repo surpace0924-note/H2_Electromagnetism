@@ -1,14 +1,24 @@
 \section{電荷と電界}
 \subsection{電荷}
 ・帯電　：電気を帯びる，もつ\\
-・帯電帯：電気を帯た物体\\
+・帯電体：電気を帯びた物体\\
 ・電荷　：電気の実態\\
 ・電荷量：電荷の大きさ$[C]=[A \cdot s]$（クーロン）\\
 ・電荷は正，負の二種．\\
 　→同種は反発し合い，異種は引き合う．\\
-・帯電していない→正負の電荷を等量持っている．\\
-　→電気的中性\\
+・帯電していない\\
+　→正負の電荷を等量持っている．\\
+　　→電気的中性\\
 ・陽子は電子の1800倍の質量\\
+\begin{table}[htb]
+  \begin{center}
+    \begin{tabular}{|l|c|c|} \hline
+      & 電荷量 & 質量 \\ \hline
+      陽子 & $-1.6 \times 10^{-19}C$ & $9.1 \times 10^{-31}kg$\\
+      電子 & $+1.6 \times 10^{-19}C$ & $1.7 \times 10^{-27}kg$\\ \hline
+    \end{tabular}
+  \end{center}
+\end{table}
 
 \subsection{物質の電気的性質}
 ・導体：電荷をよく通す\\
@@ -17,16 +27,20 @@
 
 \subsection{静電誘導}
 \pic{./files/1/imgs/1.pdf}{0.3}
+静電誘導：帯電体の接近によって，物質内の電荷分布が変化する現象．
+
 \subsection{クーロンの法則}
 \pic{./files/1/imgs/2.pdf}{0.2}
-点電荷：十分に小さく，点とみなせるような帯電帯\\
+点電荷：十分に小さく，点とみなせるような帯電体\\
 
 \begin{itembox}[l]{クーロンの法則}
+  帯電体の間に働く力を表す法則．
   \begin{eqnarray}
     F &=&\frac {1}{4\pi \epsilon _{0}}\cdot \frac {\left| Q_{1}\right| \cdot \left| Q_{2}\right| }{r^{2}}\, [\textrm{N}] \\
     &\fallingdotseq& 9\times 10^{9} \cdot \frac {\left| Q_{1}\right| \cdot \left| Q_{2}\right| }{r^{2}}\, [\textrm{N}]\\
     \epsilon_0 &=& \mbox{真空の誘電率}\, [\textrm{F/m}]
   \end{eqnarray}
+  この$F$をクーロン力や静電力ともいう．
 \end{itembox}
 
 \subsection{電界}
@@ -34,10 +48,9 @@
 はじめに$Q_0$の電荷を置く\\
 　→周辺の空間が電気的に歪む\\
 
-はじめに$Q$の電荷を置くと力が働く\\
+次に$Q$の電荷を置くと力が働く\\
 　→$Q_0$によって歪んだ空間に$Q$を置くと力が働く．\\
 
-電荷を置くことで生じる空間の電気的な歪み．
 \begin{eqnarray}
   F &=&\frac {1}{4\pi \epsilon _{0}}\cdot \frac {\left| Q_{0}\right| \cdot \left| Q\right| }{r^{2}}\, [\textrm{N}] \\
   &=&\frac {\left| Q_{0}\right|}{4\pi \epsilon _{0}r^{2}}\cdot \left| Q\right|\, [\textrm{N}]
@@ -51,6 +64,8 @@
 電界はベクトル量であるから
 
 \begin{itembox}[l]{電界（電場）}
+電荷を置くことで生じる空間の電気的な歪み．\\
+電界$\overrightarrow{E}[N/C]$の中に置かれた電荷$Q[C]$に働くクーロン力$F$は
   \begin{flalign}
     \overrightarrow {F}=Q\cdot \overrightarrow {E}\, [\textrm{N/C}]
   \end{flalign}
@@ -83,13 +98,15 @@
 \subsection{電束と電束密度}
 {\bf 電束}\\
 　形状は電気力線と同じ．\\
-　本数は電気力線の$\epsilon_0$倍．\\
+　媒質の誘電率$\epsilon$に関係なく，$1C$の電荷から1本発生する．\\
+　→電気力線の$\epsilon_0$倍．\\
 
-{\bf $+Q\unit{c}$の点電荷から出る本数}\\
-　電気力線：$Q/\epsilon_0\unit{\mbox{本}}$\\
-　電束：$Q\unit{\mbox{本}}$\\
+{\bf $+1\unit{C}$の点電荷から出る本数}\\
+　電気力線：$1/\epsilon_0\unit{\mbox{本}}$\\
+　電束：$1\unit{\mbox{本}}$\\
 
 \begin{itembox}[l]{電束密度}
+  単位球面上の単位面積当たりの電束数．
   \begin{flalign}
     \overrightarrow {D}=\varepsilon _{0}\overrightarrow {E}\unit{C/m^2}
   \end{flalign}
@@ -99,19 +116,24 @@
 \begin{itembox}[l]{ガウスの法則}
   ある閉曲面を通って外に出る電気力線の総数はその閉曲面に含まれる電荷の総量の$Q\unit{C}$を$\epsilon_0$で割ったものに等しい．\\
   　↓\\
-  ある閉曲面上で電界を面積分↓ものはその閉曲面上に含まれる電荷の総量$Q\unit{C}$を$\epsilon_0$で割ったものに等しい．
+  ある閉曲面上で電界を面積分したものはその閉曲面上に含まれる電荷の総量$Q\unit{C}$を$\epsilon_0$で割ったものに等しい．\\
+
+  閉曲面$S_0$を通って外に出る電荷の総量を$Q[C]$とすると
+  \begin{flalign}
+  &\oint_{S_{0}}EdS=\dfrac {Q}{\varepsilon _{0}}
+  \end{flalign}
 \end{itembox}
 
 {\bf 面積分}
 \pic{./files/1/imgs/6.pdf}{0.2}
 {\bf 電気力線の本数}
 \begin{flalign}
-E_{1}\times \Delta \varepsilon _{1}+E_{2}\times \Delta S_{2}+\ldots \unit{\mbox{本}/m^2}\times\unit{m^2}
+E_{1}\times \Delta S_{1}+E_{2}\times \Delta S_{2}+\ldots \unit{\mbox{本}/m^2}\times\unit{m^2}
 \end{flalign}
 
 {\bf 電界の面積分}
 \begin{flalign}
-&E_{1}\times \Delta \varepsilon _{1}+E_{2}\times \Delta S_{2}+\ldots \unit{N/C}\times\unit{m^2}\\
+&E_{1}\times \Delta S_{1}+E_{2}\times \Delta S_{2}+\ldots \unit{N/C}\times\unit{m^2}\\
 &=\oint _{S_{0}}EdS
 \end{flalign}
 
@@ -136,15 +158,13 @@ E_{1}\times \Delta \varepsilon _{1}+E_{2}\times \Delta S_{2}+\ldots \unit{\mbox{
 ガウスの法則より
 \begin{flalign}
 &E\times 2\pi rl+0\times \pi r^{2}+0\times \pi r^{2}=\dfrac {\lambda l}{\varepsilon _{0}}\\
-&E_{1}\Delta S_{1}+E_{2}\Delta S_{2}+E_{3}\Delta S_{3}+E_{4}\Delta S_{4}+E_{5}\Delta S_{5} = \dfrac {\lambda l}{\varepsilon _{0}}\\
-&E\left( \Delta S_{1}+\Delta S_{2}+\Delta S_{3}\right) +0x\Delta S_{4}+0x\Delta S_{5}= \dfrac {\lambda l}{\varepsilon _{0}}\\
 &E\cdot l\cdot 2\pi r=\dfrac {\lambda l}{\varepsilon _{0}}\\
 &E\cdot 2\pi rl=\dfrac {\lambda l}{\varepsilon _{0}}\\
 &\therefore E=\dfrac {\lambda }{2\pi \varepsilon _{0}r}\left[ N/C\right]
 \end{flalign}
 
 \subsubsection{一様に帯電した無限長の円柱}
-\pic{./files/1/imgs/9.pdf}{0.3}
+\pic{./files/1/imgs/9.pdf}{0.35}
 \pic{./files/1/imgs/10.pdf}{0.2}
 単位長さあたり$\lambda \left[ C/m\right]$の電荷が一様に分布した円柱の内部と外部の電界の大きさを求める．\\
 円柱と同じ中心軸をもつ半径が$r\left[ m\right]$，長さ$l\left[ m\right]$の円筒の側面上の電界をEとする．\\
@@ -154,23 +174,27 @@ E_{1}\times \Delta \varepsilon _{1}+E_{2}\times \Delta S_{2}+\ldots \unit{\mbox{
 \begin{flalign}
 &\oint _{S_{0}}EdS=\dfrac {\lambda l}{\varepsilon _{0}}\\
 &E\times 2\pi rl+0\times \Delta S_{n}=\dfrac {\lambda l}{\varepsilon _{0}}\\
-&E=\dfrac {\lambda }{2\pi r\varepsilon _{0}}
+&E=\dfrac {\lambda }{2\pi \varepsilon _{0} r}
 \end{flalign}
 
 {\bf ・内部$(0\leqq r\leqq a)$}\\
-\begin{table}[htb]
-\begin{center}
-  \begin{tabular}{|l|c|c|} \hline
-    & a & r \\ \hline
-    電荷 & $\lambda l$ & $\lambda l\dfrac {r^{2}}{a^{2}}$\\
-    体積 & $\pi a^{2}l$ & $\pi r^{2}l$\\
-    電荷/体積 & $\dfrac {\lambda }{\pi a^{2}}$ & $\dfrac {\lambda }{\pi a^{2}}$\\ \hline
-  \end{tabular}
-\end{center}
-\end{table}
+まず，体積比を利用して閉曲面の側面を出ていく電荷量$Q[C]$を求める．\\
 \begin{flalign}
-\dfrac {\lambda l}{\pi a^{2}l}\times \pi r^{2}l=\lambda l\dfrac {r^2 }{a^{2}}\left[ C\right]
+&\pi a^{2}l : \pi r^{2}l\\
+&\dfrac {\lambda l}{\pi a^{2}l} = \dfrac {Q}{\pi r^{2}l}\\
+&Q = \dfrac {\lambda l}{\pi a^{2}l}\times \pi r^{2}l=\lambda l\dfrac {r^2 }{a^{2}}\left[ C\right]
 \end{flalign}
+
+\begin{table}[htb]
+  \begin{center}
+    \begin{tabular}{|l|c|c|} \hline
+      & 体積 & 電荷 \\ \hline
+      全体 & $\pi a^{2}l$ & $\lambda l$\\
+      求めるところ & $\pi r^{2}l$ & $\lambda l\dfrac {r^2 }{a^{2}}$\\ \hline
+    \end{tabular}
+  \end{center}
+\end{table}
+
 ガウスの法則より
 \begin{flalign}
 &\oint _{s_{0}}EdS = \dfrac {\lambda l+\dfrac {r^{2}}{a^{2}}}{\varepsilon _{0}}\\
@@ -200,7 +224,7 @@ E_{1}\times \Delta \varepsilon _{1}+E_{2}\times \Delta S_{2}+\ldots \unit{\mbox{
       求めるところ & $\dfrac {4}{3}\pi r^{3}$ & $Q\dfrac {r^{3}}{a^{3}}$\\ \hline
     \end{tabular}
   \end{center}
-  \end{table}
+\end{table}
 \begin{eqnarray}
   \because \dfrac {Q}{\dfrac {4}{3}\pi a^{3}}\cdot \dfrac {4}{3}\pi r^{3}=Q\cdot \dfrac {r^{3}}{a^{3}}
 \end{eqnarray}
@@ -230,7 +254,7 @@ E_{1}\times \Delta \varepsilon _{1}+E_{2}\times \Delta S_{2}+\ldots \unit{\mbox{
 \begin{flalign}
 &\oint _{s_{0}}EdS=\dfrac {0}{\varepsilon _{0}}\\
 &E \times 4\pi r^{2}=\dfrac {0}{\varepsilon _{0}}=0\\
-&\therefore E=O\left[ N/C\right]
+&\therefore E=0\left[ N/C\right]
 \end{flalign}
 \pic{./files/1/imgs/15.pdf}{0.2}
 
@@ -260,13 +284,13 @@ E_{1}\times \Delta \varepsilon _{1}+E_{2}\times \Delta S_{2}+\ldots \unit{\mbox{
 なぜなら，水平方向の成分があると表面に永久電流が流れてしまうから．\\
 
 \begin{flalign}
-&ExS_{1}+0\times S_{2}+0\times S_{1}=\dfrac {\sigma S_{1}}{\varepsilon _{0}}\\
+&E\therefore S_{1}+0\times S_{2}+0\times S_{1}=\dfrac {\sigma S_{1}}{\varepsilon _{0}}\\
 &\therefore E=\dfrac {\sigma }{\varepsilon _{0}}
 \end{flalign}
 
 {\bf 応用例}\\
 半径$a[m]$，電荷量$Q[C]$を持った球の表面上の電界の大きさ\\
-\pic{./files/1/imgs/19.pdf}{0.2}
+\pic{./files/1/imgs/19.pdf}{0.15}
 
 \begin{eqnarray}
 E&=&\dfrac {\sigma }{\varepsilon _{0}}\\

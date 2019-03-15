@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.12)  15 MAR 2019 13:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.12)  16 MAR 2019 00:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -630,363 +630,365 @@ LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 8.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 9.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 9.
+(Font)              scaled to size 9.24713pt on input line 10.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 10.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 11.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 13.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 13.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 13.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 13.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 13.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 13.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 14.
+(Font)              scaled to size 9.24713pt on input line 12.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 11.09656pt on input line 23.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 11.09656pt on input line 23.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 11.09656pt on input line 23.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 11.09656pt on input line 23.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 11.09656pt on input line 23.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 11.09656pt on input line 23.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 14.
+(Font)              scaled to size 9.24713pt on input line 24.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 16.
+(Font)              scaled to size 9.24713pt on input line 24.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 26.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 18.
+(Font)              scaled to size 11.09656pt on input line 28.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 18.
+(Font)              scaled to size 11.09656pt on input line 28.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 18.
+(Font)              scaled to size 11.09656pt on input line 28.
 <./files/1/imgs/1.pdf, id=46, 722.7pt x 372.9132pt>
 File: ./files/1/imgs/1.pdf Graphic file (type pdf)
 <use ./files/1/imgs/1.pdf>
-Package pdftex.def Info: ./files/1/imgs/1.pdf  used on input line 19.
+Package pdftex.def Info: ./files/1/imgs/1.pdf  used on input line 29.
 (pdftex.def)             Requested size: 216.81166pt x 111.87482pt.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 20.
-<./files/1/imgs/2.pdf, id=48, 722.7pt x 272.4579pt>
-File: ./files/1/imgs/2.pdf Graphic file (type pdf)
-<use ./files/1/imgs/2.pdf>
-Package pdftex.def Info: ./files/1/imgs/2.pdf  used on input line 21.
-(pdftex.def)             Requested size: 144.53743pt x 54.4906pt.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 22.
+(Font)              scaled to size 9.24713pt on input line 30.
  [1
 
- <./files/1/imgs/1.pdf>]
+]
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 22.
+(Font)              scaled to size 9.24713pt on input line 30.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 28.
+(Font)              scaled to size 9.24713pt on input line 30.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 28.
+(Font)              scaled to size 9.24713pt on input line 30.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 28.
+(Font)              scaled to size 9.24713pt on input line 30.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 30.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
 (Font)              scaled to size 11.09656pt on input line 32.
-<./files/1/imgs/3.pdf, id=126, 718.3638pt x 722.7pt>
-File: ./files/1/imgs/3.pdf Graphic file (type pdf)
-<use ./files/1/imgs/3.pdf>
-Package pdftex.def Info: ./files/1/imgs/3.pdf  used on input line 33.
-(pdftex.def)             Requested size: 122.12022pt x 122.85736pt.
+<./files/1/imgs/2.pdf, id=117, 722.7pt x 272.4579pt>
+File: ./files/1/imgs/2.pdf Graphic file (type pdf)
+<use ./files/1/imgs/2.pdf>
+Package pdftex.def Info: ./files/1/imgs/2.pdf  used on input line 33.
+(pdftex.def)             Requested size: 144.53743pt x 54.4906pt.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 34.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 35.
+(Font)              scaled to size 9.24713pt on input line 37.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 53.
- [2 <./files/1/imgs/2.pdf> <./files/1/imgs/3.pdf
+(Font)              scaled to size 9.24713pt on input line 41.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 11.09656pt on input line 46.
+<./files/1/imgs/3.pdf, id=121, 718.3638pt x 722.7pt>
+File: ./files/1/imgs/3.pdf Graphic file (type pdf)
+<use ./files/1/imgs/3.pdf>
+Package pdftex.def Info: ./files/1/imgs/3.pdf  used on input line 47.
+(pdftex.def)             Requested size: 122.12022pt x 122.85736pt.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 48.
+ [2 <./files/1/imgs/1.pdf> <./files/1/imgs/2.pdf
+
+pdfTeX warning: pdflatex (file ./files/1/imgs/2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./files/1/imgs/3.pdf
 
 pdfTeX warning: pdflatex (file ./files/1/imgs/3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 60.
+(Font)              scaled to size 9.24713pt on input line 66.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 60.
+(Font)              scaled to size 9.24713pt on input line 75.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 75.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 64.
-<./files/1/imgs/4.pdf, id=157, 620.07661pt x 722.7pt>
+(Font)              scaled to size 11.09656pt on input line 79.
+<./files/1/imgs/4.pdf, id=162, 620.07661pt x 722.7pt>
 File: ./files/1/imgs/4.pdf Graphic file (type pdf)
 <use ./files/1/imgs/4.pdf>
-Package pdftex.def Info: ./files/1/imgs/4.pdf  used on input line 65.
+Package pdftex.def Info: ./files/1/imgs/4.pdf  used on input line 80.
 (pdftex.def)             Requested size: 62.01129pt x 72.27423pt.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 66.
+(Font)              scaled to size 9.24713pt on input line 81.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 66.
+(Font)              scaled to size 9.24713pt on input line 81.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 66.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 67.
+(Font)              scaled to size 9.24713pt on input line 81.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 69.
+(Font)              scaled to size 11.09656pt on input line 84.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 69.
+(Font)              scaled to size 11.09656pt on input line 84.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 72.
+(Font)              scaled to size 9.24713pt on input line 87.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 72.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 72.
-<./files/1/imgs/5.pdf, id=159, 722.7pt x 710.41411pt>
+(Font)              scaled to size 9.24713pt on input line 87.
+<./files/1/imgs/5.pdf, id=163, 722.7pt x 710.41411pt>
 File: ./files/1/imgs/5.pdf Graphic file (type pdf)
 <use ./files/1/imgs/5.pdf>
-Package pdftex.def Info: ./files/1/imgs/5.pdf  used on input line 77.
+Package pdftex.def Info: ./files/1/imgs/5.pdf  used on input line 92.
 (pdftex.def)             Requested size: 144.53743pt x 142.08029pt.
+ [3 <./files/1/imgs/4.pdf>]
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 83.
+(Font)              scaled to size 11.09656pt on input line 98.
 Class bxjsarticle Info: Old font command '\bf' is used!!
-(bxjsarticle)           The first occurrence is on input line 84.
+(bxjsarticle)           The first occurrence is on input line 99.
 LaTeX Font Info:    Font shape `C70/mc/bx/n'
 (Font)              in size <10> not available.
 (Font)              Font shape `C70/gt/m/n'
-(Font)              tried instead on input line 84.
+(Font)              tried instead on input line 99.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 84.
+(Font)              scaled to size 9.24713pt on input line 99.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 84.
- [3 <./files/1/imgs/4.pdf> <./files/1/imgs/5.pdf
-
-pdfTeX warning: pdflatex (file ./files/1/imgs/5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->]
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 88.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 88.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 88.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 88.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 88.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 88.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 88.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 88.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 88.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 88.
+(Font)              scaled to size 9.24713pt on input line 99.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 100.
+(Font)              scaled to size 9.24713pt on input line 101.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 105.
+(Font)              scaled to size 9.24713pt on input line 104.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 105.
+(Font)              scaled to size 9.24713pt on input line 104.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 105.
-<./files/1/imgs/6.pdf, id=185, 722.7pt x 558.6471pt>
+(Font)              scaled to size 9.24713pt on input line 104.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 104.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 104.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 104.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 104.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 104.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 104.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 104.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 109.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 127.
+ [4 <./files/1/imgs/5.pdf>]
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 127.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 127.
+<./files/1/imgs/6.pdf, id=198, 722.7pt x 558.6471pt>
 File: ./files/1/imgs/6.pdf Graphic file (type pdf)
 <use ./files/1/imgs/6.pdf>
-Package pdftex.def Info: ./files/1/imgs/6.pdf  used on input line 106.
+Package pdftex.def Info: ./files/1/imgs/6.pdf  used on input line 128.
 (pdftex.def)             Requested size: 144.53743pt x 111.72743pt.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 107.
+(Font)              scaled to size 9.24713pt on input line 129.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 107.
+(Font)              scaled to size 9.24713pt on input line 129.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 107.
+(Font)              scaled to size 9.24713pt on input line 129.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 107.
+(Font)              scaled to size 9.24713pt on input line 129.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 107.
+(Font)              scaled to size 9.24713pt on input line 129.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 107.
+(Font)              scaled to size 9.24713pt on input line 129.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 107.
+(Font)              scaled to size 9.24713pt on input line 129.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 112.
+(Font)              scaled to size 9.24713pt on input line 134.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 112.
+(Font)              scaled to size 9.24713pt on input line 134.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 112.
+(Font)              scaled to size 9.24713pt on input line 134.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 112.
+(Font)              scaled to size 9.24713pt on input line 134.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 112.
+(Font)              scaled to size 9.24713pt on input line 134.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 112.
+(Font)              scaled to size 9.24713pt on input line 134.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 118.
-<./files/1/imgs/7.pdf, id=186, 722.7pt x 708.24597pt>
+(Font)              scaled to size 11.09656pt on input line 140.
+<./files/1/imgs/7.pdf, id=199, 722.7pt x 708.24597pt>
 File: ./files/1/imgs/7.pdf Graphic file (type pdf)
 <use ./files/1/imgs/7.pdf>
-Package pdftex.def Info: ./files/1/imgs/7.pdf  used on input line 120.
+Package pdftex.def Info: ./files/1/imgs/7.pdf  used on input line 142.
 (pdftex.def)             Requested size: 144.53743pt x 141.64668pt.
- [4 <./files/1/imgs/6.pdf>]
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 121.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 131.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 131.
-<./files/1/imgs/8.pdf, id=208, 722.7pt x 448.07399pt>
-File: ./files/1/imgs/8.pdf Graphic file (type pdf)
-<use ./files/1/imgs/8.pdf>
-Package pdftex.def Info: ./files/1/imgs/8.pdf  used on input line 132.
-(pdftex.def)             Requested size: 252.94878pt x 156.82823pt.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 133.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 134.
- [5 <./files/1/imgs/7.pdf> <./files/1/imgs/8.pdf
+ [5 <./files/1/imgs/6.pdf> <./files/1/imgs/7.pdf
 
-pdfTeX warning: pdflatex (file ./files/1/imgs/8.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./files/1/imgs/7.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 146.
+(Font)              scaled to size 9.24713pt on input line 153.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 146.
+(Font)              scaled to size 9.24713pt on input line 153.
+<./files/1/imgs/8.pdf, id=223, 722.7pt x 448.07399pt>
+File: ./files/1/imgs/8.pdf Graphic file (type pdf)
+<use ./files/1/imgs/8.pdf>
+Package pdftex.def Info: ./files/1/imgs/8.pdf  used on input line 154.
+(pdftex.def)             Requested size: 252.94878pt x 156.82823pt.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 155.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 156.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 146.
-<./files/1/imgs/9.pdf, id=233, 722.7pt x 486.37709pt>
+(Font)              scaled to size 9.24713pt on input line 166.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 166.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 166.
+<./files/1/imgs/9.pdf, id=225, 722.7pt x 486.37709pt>
 File: ./files/1/imgs/9.pdf Graphic file (type pdf)
 <use ./files/1/imgs/9.pdf>
-Package pdftex.def Info: ./files/1/imgs/9.pdf  used on input line 147.
-(pdftex.def)             Requested size: 216.81166pt x 145.91425pt.
-<./files/1/imgs/10.pdf, id=234, 651.8754pt x 722.7pt>
+Package pdftex.def Info: ./files/1/imgs/9.pdf  used on input line 167.
+(pdftex.def)             Requested size: 252.94878pt x 170.23453pt.
+<./files/1/imgs/10.pdf, id=226, 651.8754pt x 722.7pt>
 File: ./files/1/imgs/10.pdf Graphic file (type pdf)
 <use ./files/1/imgs/10.pdf>
-Package pdftex.def Info: ./files/1/imgs/10.pdf  used on input line 148.
+Package pdftex.def Info: ./files/1/imgs/10.pdf  used on input line 168.
 (pdftex.def)             Requested size: 130.37276pt x 144.53743pt.
+ [6 <./files/1/imgs/8.pdf>]
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 149.
+(Font)              scaled to size 9.24713pt on input line 169.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 152.
+(Font)              scaled to size 9.24713pt on input line 172.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 152.
+(Font)              scaled to size 9.24713pt on input line 172.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 152.
- [6 <./files/1/imgs/9.pdf> <./files/1/imgs/10.pdf
+(Font)              scaled to size 9.24713pt on input line 172.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 180.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 180.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 180.
+ [7 <./files/1/imgs/9.pdf> <./files/1/imgs/10.pdf
 
 pdfTeX warning: pdflatex (file ./files/1/imgs/10.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 160.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 160.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 160.
-<./files/1/imgs/11.pdf, id=254, 722.7pt x 408.32549pt>
+<./files/1/imgs/11.pdf, id=261, 722.7pt x 408.32549pt>
 File: ./files/1/imgs/11.pdf Graphic file (type pdf)
 <use ./files/1/imgs/11.pdf>
-Package pdftex.def Info: ./files/1/imgs/11.pdf  used on input line 181.
+Package pdftex.def Info: ./files/1/imgs/11.pdf  used on input line 205.
 (pdftex.def)             Requested size: 144.53743pt x 81.66364pt.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 183.
-<./files/1/imgs/12.pdf, id=255, 722.7pt x 604.17719pt>
+(Font)              scaled to size 9.24713pt on input line 207.
+<./files/1/imgs/12.pdf, id=262, 722.7pt x 604.17719pt>
 File: ./files/1/imgs/12.pdf Graphic file (type pdf)
 <use ./files/1/imgs/12.pdf>
-Package pdftex.def Info: ./files/1/imgs/12.pdf  used on input line 184.
+Package pdftex.def Info: ./files/1/imgs/12.pdf  used on input line 208.
 (pdftex.def)             Requested size: 144.53743pt x 120.83328pt.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 186.
+(Font)              scaled to size 9.24713pt on input line 210.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 186.
+(Font)              scaled to size 9.24713pt on input line 210.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 186.
- [7 <./files/1/imgs/11.pdf> <./files/1/imgs/12.pdf
+(Font)              scaled to size 9.24713pt on input line 210.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 218.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 218.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 218.
+ [8 <./files/1/imgs/11.pdf> <./files/1/imgs/12.pdf
 
 pdfTeX warning: pdflatex (file ./files/1/imgs/12.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 194.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 194.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 194.
-<./files/1/imgs/13.pdf, id=274, 722.7pt x 413.3844pt>
+<./files/1/imgs/13.pdf, id=280, 722.7pt x 413.3844pt>
 File: ./files/1/imgs/13.pdf Graphic file (type pdf)
 <use ./files/1/imgs/13.pdf>
-Package pdftex.def Info: ./files/1/imgs/13.pdf  used on input line 214.
+Package pdftex.def Info: ./files/1/imgs/13.pdf  used on input line 238.
 (pdftex.def)             Requested size: 144.53743pt x 82.6754pt.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 216.
+(Font)              scaled to size 9.24713pt on input line 240.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 216.
+(Font)              scaled to size 9.24713pt on input line 240.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 216.
-<./files/1/imgs/14.pdf, id=275, 722.7pt x 632.3625pt>
+(Font)              scaled to size 9.24713pt on input line 240.
+<./files/1/imgs/14.pdf, id=281, 722.7pt x 632.3625pt>
 File: ./files/1/imgs/14.pdf Graphic file (type pdf)
 <use ./files/1/imgs/14.pdf>
-Package pdftex.def Info: ./files/1/imgs/14.pdf  used on input line 217.
+Package pdftex.def Info: ./files/1/imgs/14.pdf  used on input line 241.
 (pdftex.def)             Requested size: 144.53743pt x 126.47026pt.
- [8 <./files/1/imgs/13.pdf>]
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 221.
+(Font)              scaled to size 9.24713pt on input line 245.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 221.
+(Font)              scaled to size 9.24713pt on input line 245.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 221.
+(Font)              scaled to size 9.24713pt on input line 245.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 229.
+(Font)              scaled to size 9.24713pt on input line 253.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 229.
+(Font)              scaled to size 9.24713pt on input line 253.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 229.
-<./files/1/imgs/15.pdf, id=286, 722.7pt x 419.166pt>
+(Font)              scaled to size 9.24713pt on input line 253.
+ [9 <./files/1/imgs/13.pdf> <./files/1/imgs/14.pdf
+
+pdfTeX warning: pdflatex (file ./files/1/imgs/14.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<./files/1/imgs/15.pdf, id=300, 722.7pt x 419.166pt>
 File: ./files/1/imgs/15.pdf Graphic file (type pdf)
 <use ./files/1/imgs/15.pdf>
-Package pdftex.def Info: ./files/1/imgs/15.pdf  used on input line 235.
+Package pdftex.def Info: ./files/1/imgs/15.pdf  used on input line 259.
 (pdftex.def)             Requested size: 144.53743pt x 83.83171pt.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 237.
-<./files/1/imgs/16.pdf, id=287, 722.7pt x 385.92181pt>
+(Font)              scaled to size 9.24713pt on input line 261.
+<./files/1/imgs/16.pdf, id=301, 722.7pt x 385.92181pt>
 File: ./files/1/imgs/16.pdf Graphic file (type pdf)
 <use ./files/1/imgs/16.pdf>
-Package pdftex.def Info: ./files/1/imgs/16.pdf  used on input line 238.
+Package pdftex.def Info: ./files/1/imgs/16.pdf  used on input line 262.
 (pdftex.def)             Requested size: 252.94878pt x 135.07465pt.
- [9 <./files/1/imgs/14.pdf> <./files/1/imgs/15.pdf
-
-pdfTeX warning: pdflatex (file ./files/1/imgs/15.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->]
-<./files/1/imgs/17.pdf, id=306, 722.7pt x 315.81992pt>
+<./files/1/imgs/17.pdf, id=302, 722.7pt x 315.81992pt>
 File: ./files/1/imgs/17.pdf Graphic file (type pdf)
 <use ./files/1/imgs/17.pdf>
-Package pdftex.def Info: ./files/1/imgs/17.pdf  used on input line 249.
+Package pdftex.def Info: ./files/1/imgs/17.pdf  used on input line 273.
 (pdftex.def)             Requested size: 252.94878pt x 110.53862pt.
-<./files/1/imgs/18.pdf, id=307, 722.7pt x 435.0654pt>
-File: ./files/1/imgs/18.pdf Graphic file (type pdf)
-<use ./files/1/imgs/18.pdf>
-Package pdftex.def Info: ./files/1/imgs/18.pdf  used on input line 258.
-(pdftex.def)             Requested size: 144.53743pt x 87.01152pt.
- [10 <./files/1/imgs/16.pdf> <./files/1/imgs/17.pdf
+ [10 <./files/1/imgs/15.pdf> <./files/1/imgs/16.pdf
+
+pdfTeX warning: pdflatex (file ./files/1/imgs/16.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./files/1/imgs/17.pdf
 
 pdfTeX warning: pdflatex (file ./files/1/imgs/17.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
+<./files/1/imgs/18.pdf, id=325, 722.7pt x 435.0654pt>
+File: ./files/1/imgs/18.pdf Graphic file (type pdf)
+<use ./files/1/imgs/18.pdf>
+Package pdftex.def Info: ./files/1/imgs/18.pdf  used on input line 282.
+(pdftex.def)             Requested size: 144.53743pt x 87.01152pt.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 260.
+(Font)              scaled to size 9.24713pt on input line 284.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 260.
+(Font)              scaled to size 9.24713pt on input line 284.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 267.
+(Font)              scaled to size 9.24713pt on input line 291.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 267.
+(Font)              scaled to size 9.24713pt on input line 291.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 267.
-<./files/1/imgs/19.pdf, id=325, 686.565pt x 722.7pt>
+(Font)              scaled to size 9.24713pt on input line 291.
+<./files/1/imgs/19.pdf, id=327, 686.565pt x 722.7pt>
 File: ./files/1/imgs/19.pdf Graphic file (type pdf)
 <use ./files/1/imgs/19.pdf>
-Package pdftex.def Info: ./files/1/imgs/19.pdf  used on input line 269.
-(pdftex.def)             Requested size: 137.31056pt x 144.53743pt.
-<./files/1/imgs/20.pdf, id=326, 722.7pt x 452.4102pt>
+Package pdftex.def Info: ./files/1/imgs/19.pdf  used on input line 293.
+(pdftex.def)             Requested size: 102.9803pt x 108.40031pt.
+<./files/1/imgs/20.pdf, id=328, 722.7pt x 452.4102pt>
 File: ./files/1/imgs/20.pdf Graphic file (type pdf)
 <use ./files/1/imgs/20.pdf>
-Package pdftex.def Info: ./files/1/imgs/20.pdf  used on input line 276.
+Package pdftex.def Info: ./files/1/imgs/20.pdf  used on input line 300.
 (pdftex.def)             Requested size: 144.53743pt x 90.48042pt.
 ) [11 <./files/1/imgs/18.pdf> <./files/1/imgs/19.pdf
 
 pdfTeX warning: pdflatex (file ./files/1/imgs/19.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./files/1/imgs/20.pdf
-
-pdfTeX warning: pdflatex (file ./files/1/imgs/20.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] (/Users/ryoga/Documents/Note/Note_Electromagnetism/./files/2/2.tex
+>] [12 <./files/1/imgs/20.pdf>] (/Users/ryoga/Documents/Note/Note_Electromagnetism/./files/2/2.tex
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
 (Font)              scaled to size 13.31586pt on input line 1.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
@@ -995,33 +997,33 @@ LaTeX Font Info:    Font shape `C70/gt/m/n' will be
 (Font)              scaled to size 11.09656pt on input line 3.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
 (Font)              scaled to size 11.09656pt on input line 3.
-<./files/2/imgs/1.pdf, id=352, 722.7pt x 454.57831pt>
+<./files/2/imgs/1.pdf, id=358, 722.7pt x 454.57831pt>
 File: ./files/2/imgs/1.pdf Graphic file (type pdf)
 <use ./files/2/imgs/1.pdf>
 Package pdftex.def Info: ./files/2/imgs/1.pdf  used on input line 4.
-(pdftex.def)             Requested size: 144.53743pt x 90.91405pt.
+(pdftex.def)             Requested size: 180.67455pt x 113.64429pt.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 9.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 9.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
 (Font)              scaled to size 11.09656pt on input line 15.
-<./files/2/imgs/2.pdf, id=354, 722.7pt x 264.5082pt>
+<./files/2/imgs/2.pdf, id=360, 722.7pt x 264.5082pt>
 File: ./files/2/imgs/2.pdf Graphic file (type pdf)
 <use ./files/2/imgs/2.pdf>
 Package pdftex.def Info: ./files/2/imgs/2.pdf  used on input line 17.
-(pdftex.def)             Requested size: 144.53743pt x 52.9007pt.
-<./files/2/imgs/3.pdf, id=355, 722.7pt x 297.02971pt>
+(pdftex.def)             Requested size: 180.67455pt x 66.12688pt.
+<./files/2/imgs/3.pdf, id=361, 722.7pt x 297.02971pt>
 File: ./files/2/imgs/3.pdf Graphic file (type pdf)
 <use ./files/2/imgs/3.pdf>
 Package pdftex.def Info: ./files/2/imgs/3.pdf  used on input line 22.
-(pdftex.def)             Requested size: 144.53743pt x 59.40488pt.
-<./files/2/imgs/4.pdf, id=356, 672.83371pt x 722.7pt>
+(pdftex.def)             Requested size: 180.67455pt x 74.25723pt.
+<./files/2/imgs/4.pdf, id=362, 672.83371pt x 722.7pt>
 File: ./files/2/imgs/4.pdf Graphic file (type pdf)
 <use ./files/2/imgs/4.pdf>
 Package pdftex.def Info: ./files/2/imgs/4.pdf  used on input line 28.
 (pdftex.def)             Requested size: 154.74849pt x 166.2175pt.
- [12 <./files/2/imgs/1.pdf> <./files/2/imgs/2.pdf
+ [13 <./files/2/imgs/1.pdf> <./files/2/imgs/2.pdf
 
 pdfTeX warning: pdflatex (file ./files/2/imgs/2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./files/2/imgs/3.pdf
@@ -1030,12 +1032,12 @@ pdfTeX warning: pdflatex (file ./files/2/imgs/3.pdf): PDF inclusion: multiple pd
 >]
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 37.
-<./files/2/imgs/5.pdf, id=381, 722.7pt x 357.7365pt>
+<./files/2/imgs/5.pdf, id=388, 722.7pt x 357.7365pt>
 File: ./files/2/imgs/5.pdf Graphic file (type pdf)
 <use ./files/2/imgs/5.pdf>
 Package pdftex.def Info: ./files/2/imgs/5.pdf  used on input line 43.
-(pdftex.def)             Requested size: 144.53743pt x 71.54602pt.
- [13 <./files/2/imgs/4.pdf> <./files/2/imgs/5.pdf
+(pdftex.def)             Requested size: 180.67455pt x 89.4339pt.
+ [14 <./files/2/imgs/4.pdf> <./files/2/imgs/5.pdf
 
 pdfTeX warning: pdflatex (file ./files/2/imgs/5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
@@ -1043,23 +1045,23 @@ LaTeX Font Info:    Font shape `C70/gt/m/n' will be
 (Font)              scaled to size 11.09656pt on input line 58.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 59.
-<./files/2/imgs/6.pdf, id=400, 722.7pt x 160.43939pt>
+<./files/2/imgs/6.pdf, id=406, 722.7pt x 160.43939pt>
 File: ./files/2/imgs/6.pdf Graphic file (type pdf)
 <use ./files/2/imgs/6.pdf>
 Package pdftex.def Info: ./files/2/imgs/6.pdf  used on input line 60.
-(pdftex.def)             Requested size: 144.53743pt x 32.0873pt.
+(pdftex.def)             Requested size: 180.67455pt x 40.10974pt.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 69.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 83.
- [14 <./files/2/imgs/6.pdf>]
+ [15 <./files/2/imgs/6.pdf>]
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 90.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 90.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 93.
-<./files/2/imgs/7.pdf, id=416, 722.7pt x 445.18318pt>
+<./files/2/imgs/7.pdf, id=421, 722.7pt x 445.18318pt>
 File: ./files/2/imgs/7.pdf Graphic file (type pdf)
 <use ./files/2/imgs/7.pdf>
 Package pdftex.def Info: ./files/2/imgs/7.pdf  used on input line 96.
@@ -1068,7 +1070,7 @@ LaTeX Font Info:    Font shape `C70/gt/m/n' will be
 (Font)              scaled to size 11.09656pt on input line 102.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 103.
-<./files/2/imgs/8.pdf, id=417, 722.7pt x 256.5585pt>
+<./files/2/imgs/8.pdf, id=422, 722.7pt x 256.5585pt>
 File: ./files/2/imgs/8.pdf Graphic file (type pdf)
 <use ./files/2/imgs/8.pdf>
 Package pdftex.def Info: ./files/2/imgs/8.pdf  used on input line 104.
@@ -1077,11 +1079,11 @@ LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 105.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 109.
- [15 <./files/2/imgs/7.pdf> <./files/2/imgs/8.pdf
+ [16 <./files/2/imgs/7.pdf> <./files/2/imgs/8.pdf
 
 pdfTeX warning: pdflatex (file ./files/2/imgs/8.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<./files/2/imgs/9.pdf, id=439, 722.7pt x 307.87021pt>
+<./files/2/imgs/9.pdf, id=444, 722.7pt x 307.87021pt>
 File: ./files/2/imgs/9.pdf Graphic file (type pdf)
 <use ./files/2/imgs/9.pdf>
 Package pdftex.def Info: ./files/2/imgs/9.pdf  used on input line 123.
@@ -1090,23 +1092,23 @@ LaTeX Font Info:    Font shape `C70/gt/m/n' will be
 (Font)              scaled to size 11.09656pt on input line 131.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 132.
-<./files/2/imgs/10.pdf, id=440, 722.7pt x 594.7821pt>
+<./files/2/imgs/10.pdf, id=445, 722.7pt x 594.7821pt>
 File: ./files/2/imgs/10.pdf Graphic file (type pdf)
 <use ./files/2/imgs/10.pdf>
 Package pdftex.def Info: ./files/2/imgs/10.pdf  used on input line 133.
 (pdftex.def)             Requested size: 108.40031pt x 89.21346pt.
- [16 <./files/2/imgs/9.pdf> <./files/2/imgs/10.pdf
+ [17 <./files/2/imgs/9.pdf> <./files/2/imgs/10.pdf
 
 pdfTeX warning: pdflatex (file ./files/2/imgs/10.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 140.
-<./files/2/imgs/11.pdf, id=459, 722.7pt x 302.8113pt>
+<./files/2/imgs/11.pdf, id=464, 722.7pt x 302.8113pt>
 File: ./files/2/imgs/11.pdf Graphic file (type pdf)
 <use ./files/2/imgs/11.pdf>
 Package pdftex.def Info: ./files/2/imgs/11.pdf  used on input line 141.
-(pdftex.def)             Requested size: 144.53743pt x 60.56117pt.
-) [17 <./files/2/imgs/11.pdf>]
+(pdftex.def)             Requested size: 180.67455pt x 75.70264pt.
+) [18 <./files/2/imgs/11.pdf>]
 
 Class bxjsarticle Warning: Some old font commands were used in text:
 (bxjsarticle)                \bf
@@ -1117,19 +1119,19 @@ Class bxjsarticle Warning: Some old font commands were used in text:
 
 (/Users/ryoga/Documents/Note/Note_Electromagnetism/電気磁気学.aux) ) 
 Here is how much of TeX's memory you used:
- 7919 strings out of 492616
- 114797 string characters out of 6128982
+ 7917 strings out of 492616
+ 114702 string characters out of 6128982
  175808 words of memory out of 5000000
- 11301 multiletter control sequences out of 15000+600000
- 53012 words of font info for 204 fonts, out of 8000000 for 9000
+ 11313 multiletter control sequences out of 15000+600000
+ 53277 words of font info for 205 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
- 41i,22n,43p,946b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u91.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u50.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5d.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u56.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6e.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u57.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u89.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u55.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8d.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u79.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5f.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6d.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u4f.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u88.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u74.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u90.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u59.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u4e.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8e.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u71.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u95.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7b.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7a.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u51.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u65.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u70.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u67.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u97.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5e.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5b.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7d.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u82.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8f.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u73.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8a.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u77.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u52.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5c.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u60.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u76.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6c.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8c.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u72.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u75.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u53.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u54.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u21.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6b.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u61.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u83.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u30.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u96.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u81.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u66.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u63.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u62.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u69.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7f.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8b.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-uff.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u58.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u9a.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u78.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u30.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u4e.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u4f.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u50.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u51.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u52.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u57.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u59.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5b.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5c.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5d.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5e.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5f.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u60.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u65.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u67.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u69.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u6c.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u6e.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u70.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u71.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u72.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u74.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u75.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u76.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u79.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u7a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u7b.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u7d.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u83.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u88.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u89.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u8c.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u90.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u91.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u95.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u96.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u97.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u21.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u30.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u4e.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u4f.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u50.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u51.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u52.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u53.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u54.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-
-u55.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u56.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u57.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u58.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u59.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5b.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5c.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5d.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5e.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5f.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u60.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u61.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u62.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u63.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u65.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u66.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u67.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u69.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6b.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6c.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6d.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u70.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u71.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u72.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u73.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u74.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u75.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u76.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u77.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u78.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u79.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7b.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7d.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7f.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u81.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u82.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u83.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u88.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u89.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8b.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8c.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8d.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8e.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8f.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u90.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u91.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u95.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u96.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u97.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u9a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-uff.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on /Users/ryoga/Documents/Note/Note_Electromagnetism/電気磁気学.pdf (17 pages, 3948428 bytes).
+ 41i,22n,43p,946b,391s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u91.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u50.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5d.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u56.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6e.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u57.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u89.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u55.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8d.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u79.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5f.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6d.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u4f.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u88.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u74.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u90.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u59.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u4e.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8e.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u71.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u95.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7b.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7a.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u65.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u51.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u70.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5a.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u67.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5e.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5b.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7d.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u82.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u77.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u52.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u73.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8f.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5c.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8a.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u97.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u60.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u76.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6c.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8c.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u72.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u75.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u53.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u54.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u21.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6b.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u61.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u83.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u30.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u96.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u81.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u66.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u63.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u62.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u69.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7f.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8b.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-uff.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u58.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u9a.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u78.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u30.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u4e.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u4f.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u50.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u51.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u52.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u57.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u59.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5b.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5c.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5d.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5e.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5f.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u60.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u65.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u67.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u69.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u6c.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u6e.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u70.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u71.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u72.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u74.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u75.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u76.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u79.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u7a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u7b.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u7d.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u83.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u88.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u89.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u8c.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u90.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u91.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u95.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u96.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u97.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u21.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u30.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u4e.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u4f.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u50.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u51.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u52.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u53.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u54.
+pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u55.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u56.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u57.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u58.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u59.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5b.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5c.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5d.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5e.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5f.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u60.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u61.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u62.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u63.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u65.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u66.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u67.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u69.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6b.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6c.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6d.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u70.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u71.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u72.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u73.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u74.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u75.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u76.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u77.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u78.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u79.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7b.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7d.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7f.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u81.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u82.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u83.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u88.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u89.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8b.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8c.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8d.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8e.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8f.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u90.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u91.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u95.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u96.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u97.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u9a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-uff.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on /Users/ryoga/Documents/Note/Note_Electromagnetism/電気磁気学.pdf (18 pages, 3957108 bytes).
 PDF statistics:
- 888 PDF objects out of 1000 (max. 8388607)
- 591 compressed objects within 6 object streams
+ 897 PDF objects out of 1000 (max. 8388607)
+ 597 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
- 408 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 412 words of extra memory for PDF output out of 10000 (max. 10000000)
 
