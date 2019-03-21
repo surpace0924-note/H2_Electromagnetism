@@ -1,0 +1,149 @@
+\section{様々な帯電体による電界，電位（p.78）}
+\subsection{一様に帯電した球（p.82）}
+\subsubsection{電界}
+\pic{./files/1/imgs/12.pdf}{0.2}
+\ref{ChargedBall}と同様に，半径$a[m]$の球に$Q[C]$の電荷が一様に分布している球と同じ中心をもつ半径$r[m]$の球面上の電界の大きさを$E$とする．\\
+{\bf ・外部$(a < r)$}\\
+ガウスの法則より
+\begin{flalign}
+&\oint_{S_{0}}EdS=\dfrac {Q}{\varepsilon _{0}}\\
+&E\cdot 4\pi r^{2}=\dfrac {Q}{\varepsilon _{0}}\\
+&\therefore E=\dfrac {Q}{4\pi \varepsilon _{0}r^{2}}\left[ V/m\right]
+\end{flalign}
+
+{\bf ・内部$(a < r)$}\\
+\begin{table}[htb]
+  \begin{center}
+    \begin{tabular}{|l|c|c|} \hline
+      & 体積 & 電荷 \\ \hline
+      全体 & $\dfrac {4}{3}\pi a^{3}$ & $Q$\\
+      求めるところ & $\dfrac {4}{3}\pi r^{3}$ & $Q\dfrac {r^{3}}{a^{3}}$\\ \hline
+    \end{tabular}
+  \end{center}
+\end{table}
+\begin{eqnarray}
+  \because \dfrac {Q}{\dfrac {4}{3}\pi a^{3}}\cdot \dfrac {4}{3}\pi r^{3}=Q\cdot \dfrac {r^{3}}{a^{3}}
+\end{eqnarray}
+
+ガウスの法則より
+\begin{flalign}
+&\oint _{S_{0}}EdS=\dfrac {Q\dfrac {r^{3}}{a^{3}}}{\varepsilon _{0}}\\
+&E\cdot 4\pi r^{2}=\dfrac {Qr^{3}}{\varepsilon _{0}a^{3}}\\
+&E=\dfrac {Q}{4\pi \varepsilon _{0}a^{3}}r
+\end{flalign}
+\pic{./files/1/imgs/13.pdf}{0.2}
+
+\subsubsection{電位}
+誘電体球の中心から$R[m]$離れた点の電位を$V_R$とする．\\
+{\bf ・外部$(a < r)$}\\
+\begin{eqnarray}
+V_{R}&=&-\int ^{R}_{\infty }Edr\\
+&=&-\int ^{R}_{\infty }\dfrac {Q}{4\pi \varepsilon _{0}r^{2}}dr\\
+&=&\dfrac {Q}{4\pi \varepsilon _{0}}\int ^{R}_{\infty }\left( -r^{2}\right) dr\\
+&=&\dfrac {Q}{4\pi \varepsilon _{0}}\left[ r^{-1}\right] ^{R}_{\infty }\\
+&=&\dfrac {Q}{4\pi \varepsilon _{0}}\left( \dfrac {1}{R}-0\right) \\
+&=&\dfrac {Q}{4\pi \varepsilon _{0}R}\left[ V\right]
+\end{eqnarray}
+
+{\bf ・内部$(a < r)$}\\
+\begin{eqnarray}
+  V_{R}&=&-\int ^{R}_{\infty }Edr\\
+  &=&-\left( \int ^{a}_{\infty }Edr+\int ^{R}_{a}Edr\right) \\
+  &=&\dfrac {Q}{4\pi \varepsilon _{0}a}-\dfrac {Q}{4\pi \varepsilon _{0}a^{3}}\times \int ^{R}_{a}rdr\\
+  &=&\dfrac {Q}{4\pi \varepsilon _{0}a}-\dfrac {Q}{4\pi \varepsilon _{0}a^{3}}\times \left[ \dfrac {1}{2}r^{2}\right] ^{R}_{a}dr\\
+  &=&\dfrac {Q}{4\pi \varepsilon _{0}a}-\dfrac {Q}{4\pi \varepsilon _{0}a^{3}}\times \dfrac {1}{2}\left( R^{2}-a^{2}\right)\\
+  &=&\dfrac {Q}{4\pi \varepsilon _{0}a}-\dfrac {Q}{8\pi \varepsilon _{0}a^{3}}R^{2}+\dfrac {Q}{8\pi \varepsilon _{0}a^{3}}\\
+  &=&\dfrac {Q}{4\pi \varepsilon _{0}a}-\dfrac {Q}{8\pi \varepsilon _{0}a^{3}}R^{2}+\dfrac {Q}{8\pi \varepsilon _{0}a^{3}}\\
+  &=&\dfrac {Q}{4\pi \varepsilon _{0}a}\left( 1-\dfrac {R^{2}}{2a^{2}}+\dfrac {1}{2}\right)\\
+  &=&\dfrac {Q}{4\pi \varepsilon _{0}a}\left( \dfrac {3}{2}-\dfrac {R^{2}}{2a^{2}}\right) \left[ V\right]
+\end{eqnarray}
+
+Rについて，\\
+内部の電位は上に凸の放物線（$R=0$の時に最大値をとる）\\
+外部の電位は分数関数\\
+したがって，グラフは
+\pic{./files/3/imgs/dummy.png}{0.2}
+
+\subsection{表面が一様に帯電した導体球（p.87）}
+\subsubsection{電界}
+\pic{./files/1/imgs/14.pdf}{0.2}
+半径$a[m]$の導体球の表面上に$Q[C]$の電荷が一様に分布している球\\
+導体球と同じ中心をもつ半径$r[m]$の球面上の電界の大きさを$E$とする．\\
+
+{\bf ・外部$( r > a)$}\\
+ガウスの法則より
+\begin{flalign}
+&\oint_{S_{0}}EdS=\dfrac {Q}{\varepsilon _{0}}\\
+&E\cdot 4\pi r^{2}=\dfrac {Q}{\varepsilon _{0}}\\
+&\therefore E=\dfrac {Q}{4\pi \varepsilon _{0}r^{2}}\left[ V/m\right]
+\end{flalign}
+
+{\bf ・表面$(r = a)$}\\
+\begin{eqnarray}
+E&=&\dfrac {\sigma }{\varepsilon _{0}}=\dfrac {\dfrac {Q}{4\pi a^{2}}}{\varepsilon _{0}}\\
+ &=&\dfrac {Q}{4\pi \varepsilon _{0}a^{2}}\left[ V/m\right]
+\end{eqnarray}
+
+{\bf ・内部$(0\leqq r <a)$}\\
+\begin{flalign}
+&\oint _{s_{0}}EdS=\dfrac {0}{\varepsilon _{0}}\\
+&E \times 4\pi r^{2}=\dfrac {0}{\varepsilon _{0}}=0\\
+&\therefore E=0\left[ V/m\right]
+\end{flalign}
+
+外部と表面について，違う方法で求めたが，結果が同じになったので，同じ関数で表せるものとして扱う．\\
+電界のグラフは，
+\pic{./files/1/imgs/15.pdf}{0.2}
+
+\subsubsection{電位}
+{\bf ・表面，外部$(a \leqq r)$}\\
+\begin{eqnarray}
+V_{R}&=&-\int ^{R}_{\infty }Edr\\
+&=&-\int ^{R}_{\infty }\dfrac {Q}{4\pi \varepsilon _{0}r^{2}}dr\\
+&=&\dfrac {Q}{4\pi \varepsilon _{0}R}\left[ V\right]
+\end{eqnarray}
+
+{\bf ・内部$(0\leqq r <a)$}\\
+\begin{eqnarray}
+  V_{R}&=&-\int ^{R}_{\infty }Edr\\
+  &=&-\left( \int ^{a}_{\infty }Edr+\int ^{R}_{a}Edr\right) \\
+  &=&\dfrac {Q}{4\pi \varepsilon _{0}a}- \int ^{R}_{a}0dr\\
+  &=&\dfrac {Q}{4\pi \varepsilon _{0}a}\left[ V\right]
+\end{eqnarray}
+
+電位のグラフは，
+\pic{./files/3/imgs/dummy.png}{0.2}
+
+{\bf $R$が$0$から離れていく時，電位が大きくなることはない}\\
+
+このような問題を解くときのポイント\\
+1.電荷の分布を決める\\
+2.電界を内側から決める\\
+3.電位は必ず無限遠点から決める\\
+
+\subsection{電気双極子（p.78）}
+\subsubsection{電気双極子}
+\pic{./files/3/imgs/dummy.png}{0.2}
+電気双極子：大きさが等しく，符号が逆の極めて接近して存在するもの．
+
+\subsubsection{電気双極子により作られる電位}
+\pic{./files/3/imgs/dummy.png}{0.2}
+電位は各点電荷による電位の和をとれば良い\\
+$+Q$，$-Q$の点電荷による電位$V_p$は
+\begin{eqnarray}
+  V_p &=& \dfrac{Q}{4\pi \varepsilon _{0}\overline{AC}} + \dfrac{-Q}{4\pi \varepsilon _{0}\overline{BC}}\\
+  &=& \dfrac{Q}{4\pi \varepsilon _{0}\overline{AC}} - \dfrac{Q}{4\pi \varepsilon _{0}\overline{BC}}\\
+  &=& \dfrac{Q}{4\pi \varepsilon _{0}} \cdot \dfrac{\overline{BC}-\overline{AC}}{\overline{AC}\cdot \overline{BC}}\\
+  &\fallingdotseq& \dfrac{Q}{4\pi \varepsilon _{0}} \cdot \dfrac{l \cdot \cos(\theta)}{r^2}\\
+  &=& \dfrac{Ql \cos(\theta)}{4\pi \varepsilon _{0}r^2}\left[ V\right]
+\end{eqnarray}
+
+\subsubsection{双極子モーメント}
+ここで，$P=Ql[Cm]$と置くと，電気双極子により作られる電位は次のようになる．
+\begin{flalign}
+  &V_p = \dfrac{P}{4\pi \varepsilon _{0}r^2} \cos(\theta)\left[ V\right]
+\end{flalign}
+
+この$P$を双極子モーメントと呼ばれ，次のように定義される．
+大きさ：$P=Ql[Cm]$\\
+向き：負から正の向き\\
