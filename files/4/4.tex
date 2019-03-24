@@ -1,0 +1,269 @@
+\section{静電容量（p.99）}
+\subsection{静電容量（p.102）}
+\subsubsection{ケース1}
+\pic{./files/4/imgs/dummy.png}{0.2}
+導体に$Q[C]$の電荷を与えたとき，電圧$V[V]$
+\begin{flalign}
+  &C=\dfrac{Q}{V} \left[ F\right]
+\end{flalign}
+このときの$C$を静電容量という．
+
+\subsubsection{ケース2}
+\pic{./files/4/imgs/dummy.png}{0.2}
+導体A，Bにそれぞれ$+Q[C]$，$-Q[C]$の電荷を与えたとき，Bに対するAの電位差を$V_{AB}$とすると
+\begin{flalign}
+  &C=\dfrac{Q}{V_{AB}} \left[ F\right]
+\end{flalign}
+これをAB間の静電容量という．
+
+\subsection{静電容量の計算（p.104）}
+\subsubsection{導体球の静電容量（p.104）}
+\pic{./files/4/imgs/dummy.png}{0.2}
+{\bf ・電界}\\
+{\bf ・外部$(a < r)$}\\
+\begin{flalign}
+  &E=\dfrac {Q}{4\pi \varepsilon _{0}r^{2}}\left[ V/m\right]
+\end{flalign}
+{\bf ・表面$(a = r)$}\\
+\begin{flalign}
+&E=\dfrac {Q}{4\pi \varepsilon _{0}a^{2}}\left[ V/m\right]
+\end{flalign}
+
+{\bf ・電位}\\
+\begin{eqnarray}
+V&=&-\int ^{a}_{\infty }Edr\\
+&=&-\int ^{a}_{\infty }\dfrac {Q}{4\pi \varepsilon _{0}r^{2}}dr\\
+&=&\dfrac {Q}{4\pi \varepsilon _{0}}\left[ \dfrac {1}{r}\right] ^{a}_{\infty }\\
+&=&\dfrac {Q}{4\pi \varepsilon _{0}a}\left[ V\right]
+\end{eqnarray}
+
+{\bf ・静電容量}\\
+\begin{eqnarray}
+C&=&\dfrac {Q}{V}\\
+&=&4\pi \varepsilon _{0}a\left[ F\right]
+\end{eqnarray}
+
+\subsubsection{同心球間の静電容量（p.104）}
+\pic{./files/4/imgs/dummy.png}{0.2}
+{\bf ・電界}\\
+\begin{flalign}
+&E\times 4\pi r^{2}=\dfrac {Q}{\varepsilon _{0}}\\
+&E=\dfrac {Q}{4\pi \varepsilon _{0}r^{2}}\left[ V/m\right]
+\end{flalign}
+
+{\bf ・電位差}\\
+\begin{eqnarray}
+V_{AB}&=&-\int ^{a}_{b}Edr\\
+&=&-\int ^{a}_{b}\dfrac {Q}{4\pi \varepsilon _{0}r^{2}}dn\\
+&=&\dfrac {1}{4\pi \varepsilon _{0}}\left[ \dfrac {1}{r}\right] ^{a}_{b}\\
+&=&\dfrac {1}{4\pi \varepsilon _{0}}\left( \dfrac {1}{a}-\dfrac {1}{b}\right)\\
+&=&\dfrac {Q\left( b-a\right) }{4\pi \varepsilon _{0}ab}\left[ V\right]
+\end{eqnarray}
+
+{\bf ・静電容量}\\
+\begin{eqnarray}
+C&=&\dfrac {Q}{V_{ab}}\\
+&=&\dfrac {4\pi \varepsilon _{0}ab}{b-a}\left[ F\right]
+\end{eqnarray}
+
+\subsubsection{同心円筒間の静電容量（p.106）}
+\pic{./files/4/imgs/dummy.png}{0.2}
+無限長の同軸ケーブルのイメージ\\
+円柱A：$+\lambda [C/m]$\\
+円柱B：$-\lambda [C/m]$\\
+
+{\bf ・電界}\\
+\begin{flalign}
+&E\times 2\pi rl+0\times \pi r^{2}\times 2=\dfrac {\lambda l}{\varepsilon _{0}}\\
+&E=\dfrac {\lambda }{2\pi \varepsilon _{0}r}\left[ V/m\right]
+\end{flalign}
+
+{\bf ・電位差}\\
+\begin{eqnarray}
+V_{AB}&=&-\int ^{a}_{b}Edn\\
+&=&-\int ^{a}_{b}\dfrac {1}{2\pi \varepsilon _{0}r}dr\\
+&=&-\dfrac {\lambda }{2\pi \varepsilon _{0}}\int ^{a}_{b}\dfrac {1}{r}dn\\
+&=&-\dfrac {\lambda }{2\pi \varepsilon _{0}}\left[ \log \left| r\right| \right] ^{a}_{b}\\
+&=&-\dfrac {\lambda }{2\pi \varepsilon _{0}}\left( \log a-\log b\right) \\
+&=&\dfrac {\lambda }{2\pi \varepsilon _{0}}\left( \log b-\log a\right) \\
+&=&\dfrac {\lambda }{2\pi \varepsilon _{0}}\log \dfrac {b}{a}\left[ V\right]
+\end{eqnarray}
+
+{\bf ・静電容量}\\
+単位長さあたりの静電容量を$C\left[ F/m\right]$と置いて
+\begin{flalign}
+&Q=CV\\
+&\lambda l=Cl\cdot V_{AB}\\
+&C=\dfrac {\lambda }{V_{AB}}\\
+&C=\dfrac {2\pi \varepsilon _{0}}{\log \dfrac {b}{a}}\left[ F/m\right]
+\end{flalign}
+
+\subsubsection{並行平板間の静電容量（p.107）}
+\pic{./files/4/imgs/dummy.png}{0.2}
+導体A：$+\lambda [C]$\\
+導体B：$-\lambda [C]$\\
+{\bf ・電界}\\
+\begin{eqnarray}
+E&=&\dfrac {\left| \sigma \right| }{\varepsilon _{0}}\\
+&=&\dfrac {\left| \dfrac {Q}{S}\right| }{\varepsilon _{0}}\\
+&=&\dfrac {Q}{\varepsilon _{0}S}\left[ V/m\right]
+\end{eqnarray}
+
+{\bf ・電位差}\\
+\begin{eqnarray}
+V_{AB}&=&E\cdot d\\
+&=&\dfrac {Qd}{\varepsilon _{0}S}\left[ V\right]
+\end{eqnarray}
+
+{\bf ・静電容量}\\
+\begin{eqnarray}
+C&=&\dfrac {Q}{V_{AB}}\\
+&=&\dfrac {Q}{\dfrac {Qd}{\varepsilon _{0}S}}\\
+&=&\dfrac {\varepsilon _{0}S}{d}
+\end{eqnarray}
+
+\subsubsection{無限長の並行導線間の静電容量（p.108）}
+\pic{./files/4/imgs/dummy.png}{0.2}
+中心間隔：$d[m]$\\
+半径：$a[m]$\\
+
+{\bf ・電界}\\
+$x$軸状の電界の大きさ$E$は
+\begin{flalign}
+&E=\dfrac {\lambda }{2\pi \varepsilon _{0}x}+\dfrac {\lambda }{2\pi \varepsilon _{0}\left( d-x\right) }
+\end{flalign}
+
+{\bf ・電位差}\\
+\begin{eqnarray}
+V_{AB}&=&-\int ^{a}_{d-a}Edx\\
+&=&-\dfrac {\lambda }{2\pi \varepsilon _{0}}\int ^{a}_{d-a}\left( \dfrac {1}{x}+\dfrac {1}{dx}\right) dx\\
+&=&-\dfrac {\lambda }{2\pi \varepsilon _{0}}\left[ \log \left| x\right| -\log \left| d-x\right| \right] ^{a}_{d-a}\\
+&=&-\dfrac {\lambda }{2\pi \varepsilon _{0}} \left( \log a-\log \left( d-a\right) \log \left( d-a\right) +\log a\right) \\
+&=&\dfrac {\lambda }{2\pi \varepsilon _{0}}\times 2\left( \log \left( d-a\right) -\log a\right)\\
+&=&\dfrac {\lambda }{\pi \varepsilon _{0}}\log \dfrac {d-a}{a}\left[ V\right]
+\end{eqnarray}
+
+{\bf ・静電容量}\\
+単位長さあたりの静電容量を$C\left[ F/m\right]$と置いて
+\begin{flalign}
+&\lambda l=ClV_{AB}\\
+&C=\dfrac {\lambda }{V_{AB}}\\
+&C=\dfrac {\pi \varepsilon _{0}}{\log \dfrac {d-a}{a}}\left[ F/m\right]
+\end{flalign}
+
+\subsection{電気影像法（p.117）}
+\pic{./files/4/imgs/dummy.png}{0.2}
+静電誘導による電界，電荷分布を求める方法．
+
+\pic{./files/4/imgs/dummy.png}{0.2}
+\begin{flalign}
+&E_{1}=E_{2}=\dfrac {Q}{4\pi \varepsilon _{0}r^{2}}
+\end{flalign}
+
+求める電界の大きさを$E$とおく．
+\begin{eqnarray}
+E&=&E_{1}\sin \theta +E_{2}\sin \theta \\
+&=&2E,\sin \theta \\
+&=&2\times \dfrac {Q}{4\pi \varepsilon _{0}r^{2}}\cdot \dfrac {a}{r}\\
+&=&\dfrac {Qa}{2\pi \varepsilon \cdot r^{3}}\\
+&=&\dfrac {Qa}{{\pi \varepsilon _{0}\left( x^{2}+a^{2}\right)}^{ \frac {3}{2}}}\left[ V/m\right]
+\end{eqnarray}
+
+ところで，導体表面の電界と電荷密度の関係（クーロンの定理）より
+\begin{flalign}
+&E=\dfrac {\sigma }{\varepsilon _{0}}\left[ V/m\right]\\
+&\sigma =E\varepsilon _{0}
+\end{flalign}
+
+よって
+\begin{eqnarray}
+\sigma &=& E\varepsilon _{0}\\
+&=&\dfrac {Qa}{2\pi \left( x^{2}+a^{2}\right) ^{\frac {3}{2}}}\left[ C/m^{2}\right]
+\end{eqnarray}
+
+\subsection{コンデンサに蓄えられるエネルギー（p.125）}
+電位が$3V$
+　→無限遠点から$+1C$の電荷を運ぶのに必要な仕事が$3[J]$
+
+\pic{./files/4/imgs/dummy.png}{0.2}
+電位が$frac{q}{C}$の導体に$\Delta q[C]$の電荷を運ぶのに必要な仕事を$\Delta W[J]$と置くと
+\begin{flalign}
+&\Delta W=\dfrac {q}{C}\Delta q
+\end{flalign}
+
+電荷量が$0[C]$から$Q[C]$になるまでの仕事$W$は
+\begin{eqnarray}
+W&=&\sum \Delta W\\
+&=&\sum \dfrac {q}{C}\Delta q\\
+&=&\int ^{Q}_{0}\dfrac {q}{C}dq\\
+&=&\left[ \dfrac {q^{2}}{2C}\right] ^{Q}_{0}\\
+&=&\dfrac {Q^{2}}{2C}\left[ J\right] \\
+&=&\dfrac {Q\cdot CV}{2C}\\
+&=&\dfrac {Q\cdot V}{2}\\
+&=&\dfrac {1}{2}CV^{2}\left[ J\right] \\
+\end{eqnarray}
+
+導体に蓄えられるエネルギー
+　→2つの導体からなるコンデンサに蓄えられるエネルギーもこの形になる．
+
+\subsection{電界に蓄えられるエネルギーの密度（p.127）}
+\pic{./files/4/imgs/dummy.png}{0.2}
+並行平板コンデンサに蓄えられるエネルギー$W[J]$は
+\begin{eqnarray}
+W&=&\dfrac {1}{2}CV^{2}\\
+&=&\dfrac {1}{2}\dfrac {\varepsilon _{0}S}{d}\times \left( Ed\right) ^{2}\\
+&=&\dfrac {1}{2}\varepsilon SdE^{2}\left[ J\right]
+\end{eqnarray}
+
+電極の体積で割ったものを$w\left[ J/m^{3}\right]$と置くと
+\begin{eqnarray}
+w&=&\dfrac {W}{Sd}\\
+&=&\dfrac {\dfrac {1}{2}\varepsilon _{0}SdE^{2}}{Sd}\\
+&=&\dfrac {1}{2}\varepsilon _{0}E^{2}\left[ J/m^{3}\right]
+\end{eqnarray}
+これは，電界に蓄えられている電気的エネルギーの密度を表している．
+
+\subsection{並行平板コンデンサに働く力（p.）}
+{\bf ・仮想変位}\\
+\pic{./files/4/imgs/dummy.png}{0.2}
+$E$が変わらないくらいわずかに狭くなったと仮定する．\\
+狭くなった分だけ空間に蓄えられるエネルギーは減少する．
+
+エネルギーの減少量$\Delta W$は
+\begin{flalign}
+&\Delta W=\dfrac {1}{2}\varepsilon _{0}E^{2}\times \left( S\times \Delta x\right)
+\end{flalign}
+
+電界が仕事をしたため，エネルギーは減少したと考えて
+\begin{flalign}
+&\Delta W=F\times \Delta x
+\end{flalign}
+
+上二つの式より
+\begin{flalign}
+&F\times \Delta x=\dfrac {1}{2}\varepsilon _{0}E^{2}\times S\times \Delta S\\
+&F=\dfrac {1}{2}\varepsilon _{0}E^{2}S\left[ N\right]
+\end{flalign}
+
+あるいは力の密度を$P\left[ N/m^{2}\right]$と置いて
+\begin{eqnarray}
+P&=&\dfrac {F}{s}\\
+&=&\dfrac {1}{2}\varepsilon _{0}E^{2}\left[ N/m^{2}\right]
+\end{eqnarray}
+
+ところで
+\begin{flalign}
+&\dfrac {\Delta W}{\Delta x}=F\\
+&\dfrac {\partial W}{\partial x}=F
+\end{flalign}
+
+通常，吸引力はマイナスに取るため
+\begin{flalign}
+&F=-\dfrac {\partial x}{\partial x}\left[ N\right]
+\end{flalign}
+
+\begin{flalign}
+&W=\dfrac {1}{2}\varepsilon _{0}E^{2}\left( Sx\right) \\
+&F=-\dfrac {\partial W}{\partial x}\\
+&F=\dfrac {1}{2}\varepsilon _{0}E^{2}S
+\end{flalign}
