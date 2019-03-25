@@ -188,8 +188,8 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/ipaex-type1/ipxm-r-u63
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/ipaex-type1/ipxm-r-u67.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/ipaex-type1/ipxm-r-u66.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/ipaex-type1/ipxm-r-u81.tfm
-INPUT /Users/ryoga/Documents/Note/Note_Electromagnetism/./files/6/6.tex
-INPUT /Users/ryoga/Documents/Note/Note_Electromagnetism/./files/6/6.tex
+INPUT /Users/ryoga/Documents/Note/Note_Electromagnetism/./files/8/8.tex
+INPUT /Users/ryoga/Documents/Note/Note_Electromagnetism/./files/8/8.tex
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
@@ -198,10 +198,6 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT /Users/ryoga/Documents/Note/Note_Electromagnetism/./files/7/7.tex
-INPUT /Users/ryoga/Documents/Note/Note_Electromagnetism/./files/7/7.tex
-INPUT /Users/ryoga/Documents/Note/Note_Electromagnetism/./files/8/8.tex
-INPUT /Users/ryoga/Documents/Note/Note_Electromagnetism/./files/8/8.tex
 INPUT /Users/ryoga/Documents/Note/Note_Electromagnetism/./files/9/9.tex
 INPUT /Users/ryoga/Documents/Note/Note_Electromagnetism/./files/9/9.tex
 INPUT /Users/ryoga/Documents/Note/Note_Electromagnetism/./files/10/10.tex
@@ -237,15 +233,9 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5b.e
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u78.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6c.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u96.enc
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u69.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u89.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u30.pfb
