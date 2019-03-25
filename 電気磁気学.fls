@@ -233,9 +233,13 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5b.e
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u78.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6c.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u96.enc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u69.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u89.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u30.pfb
